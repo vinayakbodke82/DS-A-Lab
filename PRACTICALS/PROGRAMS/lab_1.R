@@ -1,5 +1,4 @@
 # Lab 1
-# Lab 1
 # Print a message 
 print('Hello, Welcome to R Programming')
 #Assign variables
